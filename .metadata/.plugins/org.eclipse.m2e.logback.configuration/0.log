@@ -205,3 +205,9 @@
 2021-06-04 17:58:21,298 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DaiPhongPC\Desktop\Minimum-Cost-Flow\MinimumCostFlow\src\test\resources
 2021-06-04 18:00:28,898 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
 2021-06-04 18:01:37,416 [Worker-7: Launching MinimumCostFlow] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DaiPhongPC\Desktop\Minimum-Cost-Flow\MinimumCostFlow
+2021-06-04 18:01:37,417 [Worker-7: Launching MinimumCostFlow] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B assembly:single
+2021-06-04 18:26:04,363 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-04 18:26:04,366 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-04 18:26:04,368 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-04 18:26:04,369 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DaiPhongPC\Desktop\Minimum-Cost-Flow\MinimumCostFlow\src\test\resources
+2021-06-04 19:36:44,783 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
